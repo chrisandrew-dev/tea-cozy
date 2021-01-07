@@ -10,6 +10,7 @@ html {
           box-sizing: border-box;
   color: var(--clr-primary);
   font-family: Helvetica, Arial, sans-serif;
+  scroll-behavior: smooth;
 }
 
 *,
