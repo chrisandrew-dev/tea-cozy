@@ -1,4 +1,4 @@
-#Tea Cozy
+# Tea Cozy
 
 One-page, responsive website based on a supplied design brief.
 
