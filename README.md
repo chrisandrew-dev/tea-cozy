@@ -5,7 +5,7 @@ A simple one-page website completed to a supplied design specification. This pro
 
 ## Getting started
  * Download the files; 
- * Open the "tea-cozy" directory in your IDE, and
+ * Open the "tea-cozy" directory in your IDE; and
  * Open "index.html" with your local development server ([or install this one](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)).
 
 ## Stack
