@@ -1,10 +1,7 @@
 # Tea Cozy
 
 ## Description
-A simple one-page website completed to a supplied design specification. This project is part of the Web Development career path at [Codecademy.com](https://www.codecademy.com/catalog). This responsive solution is just beyond the scope of the brief, which didn't require the page to scale. 
-
-A note for students: 
-This repo doesn't include starter files or the original design brief; you can find them at Codecademy. Please attempt the project on your own before referencing this example.
+A simple, one-page website completed as part of the Web Development Career Path at [Codecademy.com](https://www.codecademy.com/catalog). Students can access starter files and the original design brief directly at Codecademy.com.
 
 <br />
 <p align="center">
