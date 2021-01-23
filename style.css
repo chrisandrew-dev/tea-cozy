@@ -145,12 +145,11 @@ img {
   margin-top: 2em;
 }
 
-#featured .container article {
-  width: 100%;
-  max-width: 335px;
+#featured img {
+  width: 360px;
 }
 
-#featured .container article span {
+#featured article span {
   display: block;
   line-height: 2rem;
   text-transform: capitalize;
