@@ -1,7 +1,7 @@
 # Tea Cozy
 
 ## Description
-A simple, one-page website completed as part of the Web Development Career Path at [Codecademy.com](https://www.codecademy.com/catalog). Students can access starter files and the original design brief directly at Codecademy.com.
+Simple, one-page website completed as part of the Web Development Career Path at [Codecademy.com](https://www.codecademy.com/catalog). Students can access starter files and the original design brief directly at Codecademy.com.
 
 <br />
 <p align="center">
